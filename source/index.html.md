@@ -273,7 +273,7 @@ To perform this operation, you must be authenticated by means of one of the foll
 petstore_auth ( Scopes: write:pets read:pets )
 </aside>
 
-## updatePet
+## updatePetSudheer
 
 <a id="opIdupdatePet"></a>
 
