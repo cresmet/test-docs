@@ -1,5 +1,5 @@
 ---
-title: Swagger Petstore v1.0.0
+title: Sudheer Petstore v1.0.0
 language_tabs:
   - shell: Shell
   - http: HTTP
